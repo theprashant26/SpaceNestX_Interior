@@ -430,6 +430,7 @@ header.main-header .header-sticky{
 	position: relative;
 	top: 0;
 	z-index: 100;
+	backdrop-filter: blur(15px);
 }
 
 header.main-header .header-sticky.hide{
@@ -746,7 +747,7 @@ header.main-header .header-sticky.active .navbar{
     bottom: 0;
     left: 0;
     right: 0;
-    background: linear-gradient(180deg, rgba(25, 35, 36, 0) 0%, rgba(25, 35, 36, 0.4) 80.94%);
+    background: linear-gradient(180deg, rgba(25, 35, 36, 0.25) 0%, rgba(25, 35, 36, 0.65) 80.94%);
     width: 100%;
     height: 100%;
     z-index: 1;
