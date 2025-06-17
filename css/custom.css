@@ -1922,7 +1922,9 @@ header.main-header .header-sticky.active .navbar{
 	margin-bottom: 40px;
 	padding-bottom: 40px;
 }
-
+.mybg {
+	background-image: url('../images/navbg.jpg');
+}
 .footer-social-links{
 	display: flex;
 	align-items: center;
@@ -1933,7 +1935,7 @@ header.main-header .header-sticky.active .navbar{
 .footer-social-link-title h3{
 	font-size: 20px;
 	text-transform: capitalize;
-	color: var(--white-color);
+	color: #7C877F;
 }
 
 .footer-social-links ul{
