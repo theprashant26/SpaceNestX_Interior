@@ -431,6 +431,7 @@ header.main-header .header-sticky{
 	top: 0;
 	z-index: 100;
 	backdrop-filter: blur(15px);
+	background-image: url('../images/navbg.jpg');
 }
 
 header.main-header .header-sticky.hide{
@@ -483,10 +484,10 @@ header.main-header .header-sticky.active .navbar{
 
 .main-menu ul li a{
 	font-family: var(--accent-font);
-	font-size: 16px;
-	font-weight: 400;
+	font-size: 17px;
+	font-weight: 600;
 	padding: 15px 14px !important;
-	color: var(--white-color);
+	color: #192324;
 	text-transform: capitalize;
 	transition: all 0.3s ease-in-out;
 }
