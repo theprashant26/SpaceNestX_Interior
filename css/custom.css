@@ -431,7 +431,7 @@ header.main-header .header-sticky{
 	top: 0;
 	z-index: 100;
 	backdrop-filter: blur(15px);
-	background-image: url('../images/navbg.jpg');
+	background-image: url('../images/newbannn.png');
 }
 
 header.main-header .header-sticky.hide{
@@ -1923,7 +1923,7 @@ header.main-header .header-sticky.active .navbar{
 	padding-bottom: 40px;
 }
 .mybg {
-	background-image: url('../images/navbg.jpg');
+	background-image: url('../images/footbg.png');
 }
 .footer-social-links{
 	display: flex;
